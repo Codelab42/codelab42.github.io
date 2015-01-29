@@ -11,11 +11,14 @@
 }
 
 .site-title {
-    font-size: 26px;
+    text-indent: -9999em;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    background: url(../images/codelab42.svg) no-repeat 0% 50%;
+    height: 130px;
+    width: 130px;
 
     &,
     &:visited {
@@ -86,6 +89,45 @@
     }
 }
 
+.home {
+    .site-header {
+        border: 0;
+        text-align: center;
+        padding: 3em 0 1em;
+    }
+
+    .site-title {
+        height: 150px;
+        width: 150px;
+        background-size: 100% 100%;
+        float: none;
+        display: inline-block;
+    }
+
+    .site-nav {
+        float: none;
+        padding-top: 35px;
+        text-align: center;
+        line-height: 1.2em;
+
+        li {
+            display: inline;
+        }
+
+        a {
+            color: #5B5A5A;
+            display: inline-block;
+            font-family: 'Raleway', sans-serif;
+            font-weight: 100;
+            font-size: 1.6em;
+            padding: 0 17px;
+        }
+
+        a:hover {
+            color: #d0021b;
+        }
+    }
+}
 
 
 /**
