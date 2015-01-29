@@ -149,6 +149,11 @@
     margin-left: 0;
 }
 
+.social-media-list li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
@@ -175,6 +180,10 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-right {
+    float: right;
 }
 
 @include media-query($on-laptop) {

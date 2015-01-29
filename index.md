@@ -2,8 +2,7 @@
 layout: home
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Codelab42 is a team of experienced Drupal consultants and developers located in Ghent, Belgium.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We can help bring your Drupal team to the next level by sharing our expertise in working
+on some of the largest Drupal projects.

@@ -162,12 +162,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition:.5s;
-    transition-property: color;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -175,6 +169,12 @@ a {
 
     &:hover {
         color: darken($brand-color, 25%);
+        -o-transition:.5s;
+        -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+        transition-property: color;
     }
 }
 
