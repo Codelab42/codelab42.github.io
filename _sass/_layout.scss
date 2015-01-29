@@ -276,3 +276,26 @@
         }
     }
 }
+
+/* Spotlight. */
+.spotlight {
+    background: #0F2A2D;
+    color: #AABFC2;
+    text-align: center;
+}
+.spotlight h2 {
+    color: #fff;
+    font-size: 3em;
+    font-weight: 100;
+    margin-bottom: 20px;
+    margin-top: 35px;
+    padding-top: 40px;
+}
+.spotlight p {
+    font-size: 1.3em;
+    padding: 0 10% 60px 10%;
+}
+.spotlight a {
+    color: #AABFC2;
+    text-decoration: underline;
+}

@@ -10,3 +10,15 @@ github_username:  codelab42
 
 # Build settings
 markdown: kramdown
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
