@@ -4,6 +4,7 @@ title:  "Cache Warming keeps your site fast"
 date:   2015-11-12 11:00:00
 categories: cache-warmer
 permalink: /blog/cache-warmer/cache-warming-keeps-your-site-fast
+excerpt: So you have your caching mechanism on your website all set up and working. Great! Once the cache has been built, your pages will be delivered to your visitors as fast as possible. Have you also thought about warming your cache?
 ---
 
 ![Cache Warmer banner](/images/cache-warmer-banner.png)
