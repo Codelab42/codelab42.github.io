@@ -6,6 +6,9 @@ categories: cache-warmer
 permalink: /blog/cache-warmer/cache-warming-keeps-your-site-fast
 ---
 
+![Cache Warmer banner](/images/cache-warmer-banner.png)
+
+
 So you have your caching mechanism on your website all set up and working. Great! Once the cache has been built, your pages will be delivered to your visitors as fast as possible.
 
 Regardless of which caching system you use - the standard caching mechanism that comes with your Wordpress or Drupal or more advanced systems such as Varnish - you still need that first visitor on each page to build your cache. That first visitor will experience painfully slow page-load times. The solution is cache warming: making sure that your cache has been built **before** a visitor opens up the page.
