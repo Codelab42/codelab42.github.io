@@ -20,7 +20,7 @@ If you want to keep your site fast for all of your visitors then you’ll need a
 
 ## How to warm your cache
 
-Developers have lots of ways to handle cache warming: numerous scripts can be found online and some CMS systems even offer cache warmer modules. In the world of Drupal you can use a module such as [https://www.drupal.org/project/cache_warmer] or a script such as [http://dominiquedecooman.com/use-varnish-xmlsitemap-cron-and-bash-warm-cache-fast-pages]
+Developers have lots of ways to handle cache warming: numerous scripts can be found online and some CMS systems even offer cache warmer modules. In the world of Drupal you can use a module such as [https://www.drupal.org/project/cache_warmer] or a custom script.
 
 These solutions will work well for many but what if you’re not an experienced developer? Or what if you don’t have the time to search for a script, test it and modify it to your needs? If you're looking for the easiest way to warm your cache then you’ll love our [Cache Warmer].
 
@@ -44,7 +44,6 @@ If you are using Drupal as your CMS you can even use the Cache Warmer connect mo
 
 Test the Cache Warmer for free at [cache-warmer.com] and keep your site fast all of the time!
 
-[http://dominiquedecooman.com/use-varnish-xmlsitemap-cron-and-bash-warm-cache-fast-pages]: http://dominiquedecooman.com/use-varnish-xmlsitemap-cron-and-bash-warm-cache-fast-pages
 [https://www.drupal.org/project/cache_warmer]: https://www.drupal.org/project/cache_warmer
 [Cache Warmer]:   http://www.cache-warmer.com
 [cache-warmer.com]:   http://www.cache-warmer.com
